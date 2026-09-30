@@ -1,1 +1,3 @@
-THis is the first commits code 
+THis is the first commits code git 
+
+This is hte second commit
